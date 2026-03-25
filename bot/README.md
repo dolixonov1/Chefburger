@@ -1,4 +1,4 @@
-# Chef Burger — Telegram Bot (O'zbek tili)
+# Chef Burger — Telegram Bot 
 
 ## Sozlash tugallandi
 - Token: sozlangan

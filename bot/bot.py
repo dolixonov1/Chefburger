@@ -1,6 +1,5 @@
 """
 Chef Burger Telegram Bot — To'liq O'zbek tilidagi versiya
-Token: 8691308564:AAFNv5jO-ngSZBiUYrXRfuIaey42_vp3iZ4
 Admin: 7492618052
 """
 

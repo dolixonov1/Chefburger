@@ -1,4 +1,4 @@
-BOT_TOKEN     = "8691308564:AAFNv5jO-ngSZBiUYrXRfuIaey42_vp3iZ4"
+BOT_TOKEN     = "your_bot_token_here"
 ADMIN_CHAT_ID = 7492618052
 
 RESTAURANT_NAME    = "Chef Burger"
